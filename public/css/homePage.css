@@ -1,0 +1,108 @@
+html,
+body {
+  height: 100%;
+  width: 100%;
+  background-color: #f2f2f2; /* Light Grey */
+}
+
+.editDelete {
+  float: right;
+  margin: 3px;
+  padding: 3px 10px;
+  background-color: #d32f2f; /* Dark Red */
+  color: white;
+}
+
+#png {
+  margin-right: 10px;
+}
+
+#form1 {
+  border-radius: 10px;
+  background-color: #ffffff; /* White */
+  box-shadow: 4px 4px 9px #bcbcbc; /* Light Grey */
+  margin: 20px 193px;
+}
+
+#table {
+  border-radius: 10px;
+  background-color: #f5f5f5; /* Light Grey */
+  box-shadow: 4px 4px 9px #bcbcbc; /* Light Grey */
+}
+
+#submitBtn {
+  width: 140px;
+  background-color: #4caf50; /* Green */
+  border-color: #4caf50;
+  color: white;
+}
+
+.topBtn {
+  background-color: #ffffff; /* White */
+  border-color: #ffffff;
+  color: #333333; /* Dark Grey */
+}
+
+#navigation {
+  background-color: #333333; /* Dark Grey */
+}
+
+#categoryBtn {
+  background-color: #333333; /* Dark Grey */
+  width: auto;
+  border-radius: 7px;
+  border: none;
+  color: white;
+}
+
+#category {
+  width: 300px;
+}
+
+.input-group-text {
+  background-color: #333333; /* Dark Grey */
+  color: white;
+  border: none;
+}
+
+#description {
+  width: 2000px;
+}
+
+.trStyle {
+  background-color: transparent;
+}
+
+#categoryBtn:hover,
+#submitBtn:hover,
+.editDelete:hover {
+  background-color: #ffffff; /* White */
+  color: #333333; /* Dark Grey */
+  border-color: #333333; /* Dark Grey */
+}
+
+.topBtn:hover {
+  background-color: #f2f2f2; /* Light Grey */
+  color: #333333; /* Dark Grey */
+  border-color: #f2f2f2; /* Light Grey */
+}
+
+.editDelete {
+  background-color: #333333; /* Dark Grey */
+  border: none;
+}
+
+#tableHead {
+  background-color: #333333; /* Dark Grey */
+  color: white;
+}
+
+.page-link {
+  background-color: #333333; /* Dark Grey */
+  color: white;
+}
+
+.page-link:hover {
+  background-color: #f2f2f2; /* Light Grey */
+  color: #333333; /* Dark Grey */
+}
